@@ -1,0 +1,30 @@
+body, html {
+  height: 100vh;
+}
+
+.Container {
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+  padding: 10px;
+}
+
+.Square1 {
+  height: 100vh;
+  width: 50%;
+  background-color: #800;
+  float: left;
+  text-align: center;
+  line-height: 100vh;
+  font-size: 10vw;
+}
+
+.Square2 {
+  height: 100vh;
+  width: 50%;
+  background-color: #800;
+  float: right;
+  text-align: center;
+  line-height: 100vh;
+  font-size: 10vw;
+}
